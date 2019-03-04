@@ -1,4 +1,5 @@
 //交易信息
+@Data
 public class BtcTransactionInfo implements Serializable {
  
 	private static final long serialVersionUID = 1L;
